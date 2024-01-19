@@ -1,3 +1,3 @@
-![CRUD](https://github.com/sattunikam/CRUD/assets/98211397/2921e0fe-43f5-4776-b5ab-d2e013feecb9)
+![Notes App](https://github.com/sattunikam/NOTES-APP/assets/98211397/ab3bfc57-a9dc-4cd1-b2fc-22e41ef47a32)
 
 Project Link : https://sattunikam.github.io/NOTES-APP/
